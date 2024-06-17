@@ -1,6 +1,6 @@
 # Whale Population Dynamics Simulation
 
-This project simulates the population dynamics of blue and fin whales, exploring the impact of interspecies competition, growth rates, and environmental carrying capacities. The aim is to determine if both species of whales can recover from current population levels or if one or both will become extinct.
+This project simulates the population dynamics of blue and fin whales on Mathematica software, exploring the impact of interspecies competition, growth rates, and environmental carrying capacities. The aim is to determine if both species of whales can recover from current population levels or if one or both will become extinct.
 
 ## Background
 
