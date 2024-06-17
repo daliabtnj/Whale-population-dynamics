@@ -15,6 +15,7 @@ The blue whale and fin whale are two similar species that inhabit the same areas
 The whale populations are modeled as a dynamical system using the following differential equations:
 
 dBdt[B_, F_] := 0.05*B*((B - 3000)/(B + 3000))*(1 - B/150000) - 10^-8*B*F
+
 dFdt[B_, F_] := 0.08*F*((F - 15000)/(F + 15000))*(1 - F/400000) - 10^-8*B*F
 
 where:
