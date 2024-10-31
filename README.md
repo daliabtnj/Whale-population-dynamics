@@ -52,7 +52,7 @@ Graphs illustrating the population dynamics under various initial conditions are
 
 ## Conclusion
 
-This project highlights the complex interactions and potential outcomes for blue and fin whale populations. The model offers valuable insights into the sustainability of these species and can be further refined or extended to include additional factors or species.
+This project highlights the complex interactions and potential outcomes for blue and fin whale populations. The model offers valuable insights into the sustainability of these species and can be further refined or extended to include additional factors or species. Detailled analysis is included in the mathematica pdf file.
 
 ## Usage
 
