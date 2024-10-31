@@ -1,6 +1,6 @@
 # Whale Population Dynamics Simulation
 
-This project simulates the population dynamics of blue and fin whales on Mathematica software, exploring the impact of interspecies competition, growth rates, and environmental carrying capacities. The aim is to determine if both species of whales can recover from current population levels or if one or both will become extinct.
+Using Euler's method, this project simulates the population dynamics of blue and fin whales on Python and Mathematica software, exploring the impact of interspecies competition, growth rates, and environmental carrying capacities. The aim is to determine if both species of whales can recover from current population levels or if one or both will become extinct.
 
 ## Background
 
@@ -56,5 +56,5 @@ This project highlights the complex interactions and potential outcomes for blue
 
 ## Usage
 
-To run the simulations, use the provided Mathematica code and adjust the parameters as needed. The results can be visualized using the included plotting functions.
+To run the simulations, use the provided Python code and adjust the parameters as needed, or use the Mathematica code pdf. The results can be visualized using the included plotting functions.
 
